@@ -32,14 +32,12 @@
 #### sqflite: For local storage of favorite cities.
 
 # OUTPUT : 
-<img src="https://github.com/user-attachments/assets/bdfd04cc-93f4-48ce-a8b9-86db42286a21" width = "150" height="300"/>
-![WhatsApp Image 2024-09-18 at 20 02 04_8c1ae8fc](https://github.com/user-attachments/assets/a66131b0-a3a0-4c2c-98d3-2e2f65c49af8)
-![WhatsApp Image 2024-09-18 at 20 02 04_718f7aa0](https://github.com/user-attachments/assets/2fe29454-24e5-4974-9311-b02c2235d1a5)
-![WhatsApp Image 2024-09-18 at 20 02 03_947a6d3f](https://github.com/user-attachments/assets/cf4af0c2-df00-4f29-abbc-bb25d495823b)
-![WhatsApp Image 2024-09-18 at 20 02 03_70dbdab1](https://github.com/user-attachments/assets/852fe903-1733-4a0e-b839-9ba5c26650c9)
-![WhatsApp Image 2024-09-18 at 20 02 03_dc017ba8](https://github.com/user-attachments/assets/44cfccc3-425f-4894-8144-7ae899de4eb4)
+<img src="https://github.com/user-attachments/assets/bdfd04cc-93f4-48ce-a8b9-86db42286a21" width="200" height="300"/>
+<img src="https://github.com/user-attachments/assets/a66131b0-a3a0-4c2c-98d3-2e2f65c49af8" width="200" height="300"/>
+<img src="https://github.com/user-attachments/assets/2fe29454-24e5-4974-9311-b02c2235d1a5" width="200" height="300"/>
+<img src="https://github.com/user-attachments/assets/cf4af0c2-df00-4f29-abbc-bb25d495823b" width="200" height="300"/>
+<img src="https://github.com/user-attachments/assets/852fe903-1733-4a0e-b839-9ba5c26650c9" width="200" height="300"/>
+<img src="https://github.com/user-attachments/assets/44cfccc3-425f-4894-8144-7ae899de4eb4" width="200" height="300"/>
+<img src="https://github.com/user-attachments/assets/5a707314-39dc-4cdf-be30-18cd274ae68e" width="200" height="300"/>
 
-
-
-https://github.com/user-attachments/assets/5a707314-39dc-4cdf-be30-18cd274ae68e
 
